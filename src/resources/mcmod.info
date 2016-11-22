@@ -1,0 +1,19 @@
+[
+{
+  "modid": "tardismod2",
+  "name": "Tardis Mod 2",
+  "description": "Have a TARDIS in your world!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kayila"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": [${mod_required_mods}],
+  "dependencies": [],
+  "dependants": [],
+  "useDependencyInformation": true
+}
+]
